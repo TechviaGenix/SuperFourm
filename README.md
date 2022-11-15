@@ -1,6 +1,9 @@
-# digitalungdom.se
+# SuperForum
 
-Welcome to the repository for the [website](https://digitalungdom.se/) of youth organization Digital Ungdom. The website includes a forum, information about us, and is the central for user registration. The API for this website is found at [digitalungdom-api](https://github.com/digitalungdom-se/digitalungdom-api). A development front-end server is set up at [dev.digitalungdom.se](https://dev.digitalungdom.se) and the development API is found at [devapi.digitalungdom.se](https://devapi.digitalungdom.se).
+Welcome to the repository for the SuperForum. SuperForum is based on Angora developed by Digital Ungdom (https://digitalungdom.se)
+
+SuperForum makes it easy to setup, manage and edit a forum. THe main change from Angora is that we allow users to customize using a config file.
+
 
 # Technologies and packages used
 
@@ -16,6 +19,7 @@ Below are listed some technologies and packages that are used in the project. Ke
 - react-router-dom
 - Material UI
 - React Markdown
+- Icony
 - notistack
 - Dark mode (through use-dark-mode and Material UI theme)
 
@@ -23,13 +27,12 @@ Below are listed some technologies and packages that are used in the project. Ke
 
 To start the development website you need to have [Node.js](https://nodejs.org/en/download/) installed.
 
-- Download the project by using `git clone https://github.com/digitalungdom-se/digitalungdom.se.git`
+- Download the project by using `git clone https://github.com/TechviaGenix/SuperForum.git`
 
 - To install our packages and dependencies use `npm install`
 
 - Finally, start the project by using `npm run start`
 
-Boom, _easy_, **no questions asked**. We at Digital Ungdom like it that way!
 
 ## Contribute 🖋️
 
@@ -37,7 +40,7 @@ So you want to contribute? **Good**, the world needs more brave troopers like yo
 
 ### But how? 🤔
 
-If you find a typo, bug or want to add a feature, create an [issue](https://github.com/digitalungdom-se/digitalungdom.se/issues) or add a [pull request](https://github.com/digitalungdom-se/digitalungdom.se/pulls) with the code you want to add! We will take a look at what you sent in and reward you with gold and glory (or maybe just some stickers) if you help our noble cause.
+If you find a typo, bug or want to add a feature, create an [issue](https://github.com/TechviaGenix/SuperForum/issues) or add a [pull request](https://github.com/TechviaGenix/SuperForum/pulls) with the code you want to add! We will take a look at what you sent in and reward you with gold and glory (or maybe just some stickers) if you help our noble cause.
 
 ### Recommended IDE 💾
 

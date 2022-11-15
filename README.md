@@ -22,6 +22,7 @@ Below are listed some technologies and packages that are used in the project. Ke
 - Icony
 - notistack
 - Dark mode (through use-dark-mode and Material UI theme)
+- Json Loader
 
 ## Installation 📥
 
